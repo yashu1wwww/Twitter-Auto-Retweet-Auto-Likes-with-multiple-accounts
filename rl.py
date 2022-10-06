@@ -1,4 +1,4 @@
-#here i am added upto 5 accs which auto login and retweet and like if you want more means copy line from 3 to 40 and paste that in 197 line use note++ to find the number line
+#here i am added upto 5 accs which auto login and retweet and like if you want more means copy line from 3 to 40 and paste that in 197 line use note++ to find the number line if you want more means do copy paste and again and again and dont forgot to replace acc with password
 #(note for auto login used accs must be non authentication accounts)
 
 import time
