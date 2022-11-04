@@ -1,5 +1,5 @@
 #here i am added upto 5 accs which auto login and retweet and like if you want more means copy line from 43 to 73 and paste that in 171 line use note++ to find the number line if you want more means do copy paste and again and again and dont forgot to replace acc with password
-#(note for auto login used accs must be non authentication accounts)
+#(use twitter accounts which dont have 2 factor authentication)
 
 import time
 from selenium import webdriver
